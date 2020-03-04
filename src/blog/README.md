@@ -1,0 +1,1 @@
+#Directory where cms places blog posts
