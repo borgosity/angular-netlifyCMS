@@ -1,5 +1,4 @@
 import { Injectable } from '@angular/core';
-import { CMS } from 'netlify-cms';
 
 @Injectable({
   providedIn: 'root'
@@ -7,6 +6,5 @@ import { CMS } from 'netlify-cms';
 export class CmsServiceService {
 
   constructor() { 
-    CMS.
   }
 }
